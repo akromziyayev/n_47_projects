@@ -1,5 +1,5 @@
 def func():
     print("hello world")
 
-
-func()
+def func_1():
+    print("hello world)
